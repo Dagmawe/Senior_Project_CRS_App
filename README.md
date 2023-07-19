@@ -1,6 +1,8 @@
-# CRS-App - Senior Design Project
+# CRS-App (React Native) - Senior Design Project
 
-# Mission: Mobile App to educate farmers in Guetelamala on how to utlize their land and crops (resource page, weather page, SMS texting, FQA, etc)
+Mission: Mobile App to educate farmers in Guatemala on how to utilize their land and crops (resource page, weather page, SMS texting, FQA, etc)
+
+*Will need Expo Go to run application
 
 **Resources and Materials**
 
